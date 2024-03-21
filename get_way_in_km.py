@@ -3,7 +3,7 @@ import json
 
 # TomTom API configuration
 api_url = "https://api.tomtom.com/routing/1/calculateRoute/"
-api_key = "rtLSxMF0tktG3uyE2BN6BTuCVAJ8ubi6"
+api_key = ''
 
 # Coordinates
 source_lat = 51.5560241
